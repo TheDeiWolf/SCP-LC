@@ -1741,7 +1741,7 @@ wep.HOLSTER = {
 }
 
 wep.ID = {
-	name = "Пасспорт",
+	name = "Паспорт",
 	pname = "Имя:",
 	server = "Сервер:",
 }
